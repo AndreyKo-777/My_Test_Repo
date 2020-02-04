@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -40,6 +40,9 @@ IncludeDesignInRelease=0
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
+
+[Release]
+ReleaseTarget=3
 
 [Document1]
 DocumentPath=1010829PA_HVFlyback_GD_Testboard_Overview.SchDoc
@@ -273,7 +276,7 @@ Name=QReleasedBy
 Value=xxx
 
 [Parameter8]
-Name=s-------------------------------^Obenstehende Parameter ausf�llen^-----------------------------------------
+Name=s-------------------------------^Obenstehende Parameter ausfüllen^-----------------------------------------
 Value=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Parameter9]
@@ -318,9 +321,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=1010810PA_Flyback_Test-Brd.OutJob
+OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
@@ -330,9 +331,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=1010810PA_Flyback_Test-Brd.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0C520D2A-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Fabrication
 
@@ -342,9 +341,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=Basic
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=1010810PA_Flyback_Test-Brd.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
@@ -354,9 +351,7 @@ ParameterCount=0
 ConstraintFileCount=0
 ReleaseItemId=
 Variant=[No Variations]
-OutputJobsCount=1
-DocumentReferenceClass1=DocumentReference
-OutputJobFileName1=1010810PA_Flyback_Test-Brd.OutJob
+OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
 
