@@ -1,0 +1,2 @@
+1WB_Write_Read=1WB_Data,Write Enable
+MCU_1WB_R_W=MCU_1WB_Data,MCU_12V_Write
