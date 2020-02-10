@@ -1,0 +1,10 @@
+Output: RINF Netlist
+Type  : RINFNetlist
+From  : Project [DT01.PrjPCB]
+   Generated File[DT01.FRP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:46:52 On 01/09/2019

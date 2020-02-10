@@ -1,0 +1,2 @@
+1WB_Write_Read=1WB_Data,Write Enable
+JTAG=TCK,TDI,TDO,TMS
