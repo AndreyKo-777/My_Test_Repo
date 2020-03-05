@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
@@ -30,7 +30,11 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-
+ManagedProjectGUID=3FE47419-7A41-47C6-93C1-5E69A9746444
+VaultGUID=3FFEB4E4-4163-4728-867B-0BEC7B0A382C
+ReleaseVaultName=PRRJ_ISSUES
+ItemGUID=3FE47419-7A41-47C6-93C1-5E69A9746444
+IncludeDesignInRelease=0
 
 [Preferences]
 PrefsVaultGUID=
@@ -445,40 +449,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=sheetTotal
-Value=12
+Name=ProjectAddress1
+Value=L3, 12A Rodborough Road
 
 [Parameter2]
-Name=ProjectTitle
-Value=DT01 - USB JTAG Interface
+Name=ProjectAddress2
+Value=Frenchs Forest
 
 [Parameter3]
-Name=ProjectRevision
-Value=01
+Name=ProjectAddress3
+Value=NSW 2086
 
 [Parameter4]
-Name=ProjectOrganization
-Value=Altium Limited
+Name=ProjectAddress4
+Value=Australia
 
 [Parameter5]
 Name=ProjectAssyNum
 Value=D-820-0014
 
 [Parameter6]
-Name=ProjectAddress4
-Value=Australia
+Name=ProjectOrganization
+Value=Altium Limited
 
 [Parameter7]
-Name=ProjectAddress3
-Value=NSW 2086
+Name=ProjectRevision
+Value=01
 
 [Parameter8]
-Name=ProjectAddress2
-Value=Frenchs Forest
+Name=ProjectTitle
+Value=DT01 - USB JTAG Interface
 
 [Parameter9]
-Name=ProjectAddress1
-Value=L3, 12A Rodborough Road
+Name=sheetTotal
+Value=12
 
 [Configuration1]
 Name=Sources
@@ -627,7 +631,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
