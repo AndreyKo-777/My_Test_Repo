@@ -30,11 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=DFEEB2F1-D6AE-4C5E-A9B6-BDEB5C994865
-VaultGUID=1FB88C74-CA6D-4AB1-868F-0B9BCA7B9497
-ReleaseVaultName=QA Stage U20 Balatsko #2
-ItemGUID=DFEEB2F1-D6AE-4C5E-A9B6-BDEB5C994865
-IncludeDesignInRelease=0
+
 
 [Preferences]
 PrefsVaultGUID=
