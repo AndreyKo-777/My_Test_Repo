@@ -30,10 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=5B5676E1-55CC-4C5A-BD2B-4F2E46118C07
-VaultGUID=1FB88C74-CA6D-4AB1-868F-0B9BCA7B9497
-ReleaseVaultName=QA Stage U20 Balatsko #2
-ItemGUID=5B5676E1-55CC-4C5A-BD2B-4F2E46118C07
+
 Template=N:\Tools\Altium\Vorlagen\DRIVETEK Default.PrjPcb
 IncludeDesignInRelease=0
 
