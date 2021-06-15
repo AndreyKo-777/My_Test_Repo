@@ -30,10 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=2722647A-9888-4958-8124-4CC1B99AE701
-VaultGUID=B308A4F0-01B1-4B6E-AE5A-D5ED79AC64A5
-ReleaseVaultName=Special space for Andrey_Ko
-ItemGUID=2722647A-9888-4958-8124-4CC1B99AE701
+
 IncludeDesignInRelease=0
 
 [Preferences]
